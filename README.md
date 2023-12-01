@@ -30,7 +30,7 @@ from the annual sales in both hotel car parking space.
 
 
 
-# KPIs
+# KPI's
 A total sales from revenue counting from the year Jan-2019 to Sept-2019 is $2.86M applied to both Hotels.
 
 ![kpi](https://github.com/Edav2/hotel-sales-analysis/assets/122989448/2ead0b00-37de-403c-aaf0-9816e2528287)
